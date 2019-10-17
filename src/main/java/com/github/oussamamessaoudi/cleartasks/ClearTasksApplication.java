@@ -1,4 +1,4 @@
-package oussamamessaoudi.github.com.cleartasks;
+package com.github.oussamamessaoudi.cleartasks;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
